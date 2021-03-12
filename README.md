@@ -3,7 +3,7 @@
 
 ## Notas
 
-Las notas se publicarán [AQUÍ](https://docs.google.com/linklink).
+Las notas se publicarán [AQUÍ](https://docs.google.com/spreadsheets/d/1oYuKb7C-XPkaw1UKxeBglYMcRTbjqV00nd0bsIrj98s/edit?usp=sharing).
 
 ## Equipo
 
