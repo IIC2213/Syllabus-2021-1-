@@ -6,4 +6,5 @@
 *Video Clase*: 
 - [por subir](no.subido.aun)
 
-
+*Videos Año pasado* (con la advertencia de que la calidad es peor, y no necesariamente van a estar 100% alineados con esta clase): 
+- [playlist youtube](https://www.youtube.com/playlist?list=PLeLV_ztnnBSg1A1vR0vsgl-2fIMLi6da1)
