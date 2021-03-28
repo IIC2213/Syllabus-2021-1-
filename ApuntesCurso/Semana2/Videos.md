@@ -4,7 +4,7 @@
 
 
 *Video Clase*: 
-- [por subir](no.subido.aun)
+- [por subir](https://drive.google.com/file/d/1c31QHCfq1GFRstM7p2EWZmJVvKAnGUPg/view?usp=sharing)
 
 *Videos Año pasado* (con la advertencia de que la calidad es peor, y no necesariamente van a estar 100% alineados con esta clase): 
 - [playlist youtube](https://www.youtube.com/playlist?list=PLeLV_ztnnBSg1A1vR0vsgl-2fIMLi6da1)
