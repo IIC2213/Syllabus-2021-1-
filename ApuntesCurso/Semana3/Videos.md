@@ -1,9 +1,9 @@
 *Ver antes de clase*: 
-- Video [Diagonalización](por.subir.aun)
+- Video [Diagonalización1](https://drive.google.com/file/d/1Ma-db31hCFAT_I0nQbZ3sPfM-cQXw974/view?usp=sharing) y [diagonalizacion2](https://drive.google.com/file/d/1Q-b8rcQ7SwEkTMrh2825YCcVE2TcGBF0/view?usp=sharing)
 
 *Ver después de clase*: 
-- video [Teorema de Reducción](por.subir.aun)
-- video [All es indecidible](por.subir.aun)
+- video [Teorema de Reducción](https://drive.google.com/file/d/1Fv4UuG_eDs4AVgKcIA8OhgBUaCtffcxM/view?usp=sharing)
+- video [All es indecidible](https://drive.google.com/file/d/1IV934dbAaY_Oul4YHVT--BdAAyu0vmyG/view?usp=sharing)
 
 
 *Video Clase*: 
