@@ -7,7 +7,7 @@
 
 
 *Video Clase*: 
-- [en dropbox](por.subir.aun)
+- [en dropbox](https://drive.google.com/file/d/1GhBZAbVRKmD_2a694-6oBOKSpOExhiQg/view?usp=sharing)
 
 *Videos Año pasado* (con la advertencia de que la calidad es peor, y no necesariamente van a estar 100% alineados con esta clase): 
 - [playlist youtube](https://www.youtube.com/watch?v=VVDA1XJSm70&list=PLeLV_ztnnBSgO8manmribiLkV-gCG24XA)
