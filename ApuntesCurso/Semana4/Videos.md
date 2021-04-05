@@ -1,6 +1,6 @@
 
 *Ver después de clase*: 
-- video [Simulando no determinismo con busqueda por amplitud](por.subir.aun)
+- video Simulando no determinismo con busqueda por amplitud [parte1](https://drive.google.com/file/d/1IeLvcRBewqQzQnpTzjOEbGlqXtw8KVy5/view?usp=sharing) [parte2](https://drive.google.com/file/d/1p-TcyuYduTMarVuku5G5cePm17S4v6Sw/view?usp=sharing)
 
 
 *Video Clase*: 
