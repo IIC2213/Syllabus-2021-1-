@@ -4,7 +4,7 @@
 
 
 *Video Clase*: 
-- [en dropbox](por.subir.aun)
+- [en dropbox](https://drive.google.com/file/d/1s7OkLXO8pzTXM1uZT3IjvYekRG1oCiFL/view?usp=sharing)
 
 *Videos Año pasado* (con la advertencia de que la calidad es peor, a veces aparecen profesores ayudantes, y no necesariamente van a estar 100% alineados con esta clase): 
 - [playlist youtube](https://www.youtube.com/watch?v=RDJ1I3egdxc&list=PLeLV_ztnnBSjdKDYZmIqhDtQ_yhnwGhcU)
