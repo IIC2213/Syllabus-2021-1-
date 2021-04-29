@@ -4,6 +4,10 @@
 ## Notas
 
 Las calificaciones se publican [AQUÍ](https://docs.google.com/spreadsheets/d/1oYuKb7C-XPkaw1UKxeBglYMcRTbjqV00nd0bsIrj98s/edit?usp=sharing).
+- Tarea 1 publicada y recorregida
+- Tarea 2 publicada, recorrecciones [AQUí](https://docs.google.com/forms/d/e/1FAIpQLSfGZwPTWgtUEYKhy0QVYKlqOjgUQ0DQeVzb9xwW-5ony63qvA/viewform?usp=sf_link)
+- Tarea 3 en proceso
+- Tarea 4 por entregar 
 
 ## Equipo
 
