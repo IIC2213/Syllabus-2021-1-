@@ -2,6 +2,6 @@
 - [playlist youtube](https://www.youtube.com/watch?v=_DsfrP9x3Qc&list=PLeLV_ztnnBSjPVPS62ha3uCJNN6xGd_jn)
 
 *Video Clase*: 
-- [en dropbox](https://drive.google.com/file/d/1L-DF4DwVIpaOv46brM2Ho6juihdVM-XG/view?usp=sharing) y también la [pizarra](https://drive.google.com/file/d/12ow2ICiqYE8XbpulK3_oeJkmEHj5wCfi/view?usp=sharing)
+- [en dropbox](https://drive.google.com/file/d/1v2vIOtPo3j2x364vUrStCl0Vz1OqIrWZ/view?usp=sharing) y también la [pizarra](https://drive.google.com/file/d/19DkYAwHjbGdXosWffPywvRxVqRg8ZFjt/view?usp=sharing)
 
 
