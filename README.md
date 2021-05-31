@@ -7,7 +7,9 @@ Las calificaciones se publican [AQUÍ](https://docs.google.com/spreadsheets/d/1o
 - Tarea 1 publicada y recorregida
 - Tarea 2 publicada, recorrecciones [AQUí](https://docs.google.com/forms/d/e/1FAIpQLSfGZwPTWgtUEYKhy0QVYKlqOjgUQ0DQeVzb9xwW-5ony63qvA/viewform?usp=sf_link)
 - Tarea 3 publicada, recorrecciones [AQUI](https://docs.google.com/forms/d/e/1FAIpQLScbSXAZZVmNUfS6vZdXoRq01koezTnHFtP8IfiWjQvTu8xERQ/viewform?usp=sf_link)
-- Tarea 4 por entregar 
+- Tarea 4 por entregar notas
+- Tarea 5 por entregar notas
+- Tarea 6 enunciado arriba
 
 ## Equipo
 
