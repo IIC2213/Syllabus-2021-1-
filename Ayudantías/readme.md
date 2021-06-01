@@ -10,3 +10,6 @@ Ayudantía 2
 
 * Máquina de Turing en 2D: [video](https://drive.google.com/file/d/11bRNcTAiUvKGwFMGjraIqOT8kC9Tuyoy/view?usp=sharing)
 * Máquina de Turing no determinista: [video](https://drive.google.com/file/d/1ar8kSRhCiAF_JkXiDnpBfE3G8RG6U4D_/view?usp=sharing)
+
+Ayudantía Reducciones 
+*[Video](https://drive.google.com/file/d/1JCHXDsYgLyZZ2msOo2QgCL3BwNV4EKsz/view?usp=sharing)
