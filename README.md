@@ -5,10 +5,10 @@
 
 Las calificaciones se publican [AQUÍ](https://docs.google.com/spreadsheets/d/1oYuKb7C-XPkaw1UKxeBglYMcRTbjqV00nd0bsIrj98s/edit?usp=sharing).
 - Tarea 1 publicada y recorregida
-- Tarea 2 publicada, recorrecciones [AQUí](https://docs.google.com/forms/d/e/1FAIpQLSfGZwPTWgtUEYKhy0QVYKlqOjgUQ0DQeVzb9xwW-5ony63qvA/viewform?usp=sf_link)
-- Tarea 3 publicada, recorrecciones [AQUI](https://docs.google.com/forms/d/e/1FAIpQLScbSXAZZVmNUfS6vZdXoRq01koezTnHFtP8IfiWjQvTu8xERQ/viewform?usp=sf_link)
+- Tarea 2 publicada, recorrecciones procesadas
+- Tarea 3 publicada, recorrecciones procesadas
 - Tarea 4 por entregar notas
-- Tarea 5 por entregar notas
+- Tarea 5 publicada, recorrecciones por correo a Juan.
 - Tarea 6 enunciado arriba
 
 ## Equipo
