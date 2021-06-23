@@ -7,8 +7,8 @@ Las calificaciones se publican [AQUÍ](https://docs.google.com/spreadsheets/d/1o
 - Tarea 1 publicada y recorregida
 - Tarea 2 publicada, recorrecciones procesadas
 - Tarea 3 publicada, recorrecciones procesadas
-- Tarea 4 publicada, por subir formulario de recorreccion
-- Tarea 5 publicada, recorrecciones por correo a Juan.
+- Tarea 4 publicada, recorrecciones por correo a Fernando
+- Tarea 5 publicada, recorrecciones por correo a Juan
 - Tarea 6 entregada, procesando notas
 
 ## Equipo
